@@ -5,7 +5,8 @@
 This repository is for DCSI-8133-501-202530
 *****
 ## Plan
-I plan to use this account to help with version control of the different school projects that I work.
+I plan to use this account to help with version control of the different school projects that I work.  
+https://jupyter.org
 
 ### About Me
 I'm Patrick. Network engineer. Fly fisherman who isnt great at catching fish...
