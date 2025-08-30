@@ -14,3 +14,5 @@ I'm Patrick. Network engineer. Fly fisherman who isnt great at catching fish...
 I am a big MS State fan. 
 My hobbies include family, work, gym, and fishing.
 I hope to increase my knowlege of datascience in a practical manner.
+
+
