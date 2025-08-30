@@ -15,4 +15,6 @@ I am a big MS State fan.
 My hobbies include family, work, gym, and fishing.
 I hope to increase my knowlege of datascience in a practical manner.
 
-[](https://github.com/pak57/DSCI-8133-501-202530-student/tree/main)
+![alt text][logo]
+
+[logo]:  "Logo Title Text 2"
