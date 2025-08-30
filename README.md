@@ -1,12 +1,13 @@
 #test project for DCSI-8133-501-202530
 
-My GitHub Repository
-====
-This repository is for DCSI-8133-501-202530
+# My GitHub Repository
 
-# Plan
+This repository is for DCSI-8133-501-202530
+*****
+## Plan
 I plan to use this account to help with version control of the different school projects that I work.
-# About Me
+
+### About Me
 I'm Patrick. Network engineer. Fly fisherman who isnt great at catching fish...
 
 I am a big MS State fan. 
