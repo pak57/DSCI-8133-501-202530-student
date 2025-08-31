@@ -18,4 +18,4 @@ I hope to increase my knowlege of datascience in a practical manner.
 
 ![alt text][logo]
 
-[logo]: https://github.com/pak57/DSCI-8133-501-202530-student/tree/main "This picture is a dream in Fly Fishing"
+[logo]: https://github.com/pak57/DSCI-8133-501-202530-student/main/istockphoto-464324531-612x612.jpg "This picture is a dream in Fly Fishing"
