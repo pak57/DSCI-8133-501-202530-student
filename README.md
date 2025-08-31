@@ -15,7 +15,6 @@ https://jupyter.org
 
 I hope to increase my knowlege of datascience in a practical manner.
 
+![Silhouette of a fly fisherman in the fog][logo]
 
-![alt text][logo]
-
-[logo]: https://github.com/pak57/DSCI-8133-501-202530-student/main/istockphoto-464324531-612x612.jpg "This picture is a dream in Fly Fishing"
+[logo]: https://raw.githubusercontent.com/pak57/DSCI-8133-501-202530-student/main/istockphoto-464324531-612x612.jpg "This picture is a dream in Fly Fishing"
