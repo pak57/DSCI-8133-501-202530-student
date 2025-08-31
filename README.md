@@ -2,7 +2,7 @@
 
 # *My GitHub Repository*
 
-This repository is for DCSI-8133-501-202530
+__This repository is for DCSI-8133-501-202530__
 *****
 ## *Plan*
 I plan to use this account to help with version control of the different school projects that I work.  
